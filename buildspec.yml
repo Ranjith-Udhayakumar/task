@@ -15,4 +15,4 @@ phases:
     commands:
       - echo Build completed on `date`
       - echo Pushing the Docker image...
-      - docker push 81606915347.dkr.ecr.ap-south-2.amazonaws.com/python-app:latest
+      - docker push 816069153470.dkr.ecr.ap-south-2.amazonaws.com/python-app:latest
